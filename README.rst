@@ -33,8 +33,6 @@ Installation
 
     pip install s1acker
 
-Note that ``s1acker`` is not available on pypi yet.
-
 Or, for development,
 
 .. code:: bash
