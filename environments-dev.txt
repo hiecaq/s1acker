@@ -1,2 +1,6 @@
 ipython
 ptpython
+wheel
+twine
+pytest
+pytest-pep8

@@ -1,5 +1,5 @@
 test:
-	@pytest
+	@pytest --pep8 -q
 
 install:
 	@pip install -e .
